@@ -1,0 +1,4 @@
+STEP 1
+STEP LEFT
+JUMP Right
+SPIN Around
