@@ -2,3 +2,8 @@ STEP 1
 STEP LEFT
 JUMP Right
 SPIN Around
+SPIN Around
+SPIN Around
+SPIN Around
+SPIN Around
+SPIN Around
